@@ -1,1 +1,5 @@
-export const LIB_NAME  = () => "it works"
+export const Sessionz = opts => {
+  const createSession = ({email, ip}) => {
+
+  }
+}
